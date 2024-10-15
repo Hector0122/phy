@@ -1,7 +1,8 @@
-# instalar Pandas 
-# instalar NumPy 
-# instalar matplotlib 
-
+# instalar Pandas (pip3 install pandas)
+# instalar NumPy  (pip3 install NumPy)
+# instalar matplotlib  (pip3 install matplotlib)
+# instalar IPython (pip3 install IPython)
+# instalar scikit-learn (pip3 install scikit-learn)
 
 PI = 3.1416
 
